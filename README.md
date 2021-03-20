@@ -74,4 +74,3 @@ Resources:
         - !Sub 'arn:${AWS::Partition}:iam::aws:policy/AmazonEKSClusterPolicy'
         - !Sub 'arn:${AWS::Partition}:iam::aws:policy/AmazonEKSServicePolicy'
 ```
-# eksquickstart-amazon-eks-cluster-resource-provider-mine
